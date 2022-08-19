@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>  
+<bannerslider>
+<records>
+	<record> 
+		<title1>White Sport</title1>
+		<title2>Apple Watch</title2>
+		<click_url>#</click_url> 
+		<image><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-11.jpg]]></image>
+		<image_alt><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-11.jpg]]></image_alt>
+		<description>Not to mention Music, Maps, and phone calls. Apple Watch lets you do the things you do every day, more easily and conveniently</description>
+		<order>1</order>
+		<store_id>1</store_id> 
+		<status>1</status> 
+	</record>
+	<record> 
+		<title1>football</title1>
+		<title2>Green shoes</title2>
+		<click_url>#</click_url> 
+		<image><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-12.jpg]]></image>
+		<image_alt><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-12.jpg]]></image_alt>
+		<description>Not to mention Music, Maps, and phone calls. Apple Watch lets you do the things you do every day, more easily and conveniently</description>
+		<order>1</order>
+		<store_id>1</store_id> 
+		<status>1</status> 
+	</record>
+
+	<record> 
+		<title1>Rugby</title1>
+		<title2>Sport</title2>
+		<click_url>#</click_url> 
+		<image><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-21.jpg]]></image>
+		<image_alt><![CDATA[Plazathemes/bannerslider/images/b/a/banner7-21.jpg]]></image_alt>
+		<description></description>
+		<order>1</order>
+		<store_id>1</store_id> 
+		<status>1</status> 
+	</record>	
+</records>
+</bannerslider>

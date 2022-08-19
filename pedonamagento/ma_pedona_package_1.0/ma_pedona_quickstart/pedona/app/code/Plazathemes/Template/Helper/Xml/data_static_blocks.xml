@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<aboss>
+    <blocks>
+	
+		<block>
+            <title>Contact us</title>
+            <identifier>contact_us</identifier>
+            <content>
+                    <![CDATA[
+						<div class="contact-us"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6305.678625317825!2d-122.39957047637722!3d37.793805380191266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858063d63a0215%3A0xcba0af2dfe02048f!2s101+California+Street%2C+San+Francisco%2C+CA+94111%2C+Hoa+K%E1%BB%B3!5e0!3m2!1svi!2s!4v1419099932976" width="100%" height="350"></iframe></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Static</title>
+            <identifier>footer_static</identifier>
+            <content>
+                    <![CDATA[
+						<div class="footer-static">
+						<div class="row">
+						<div class="col-md-4">
+						<p class="images"><img src="{{media url="wysiwyg/logo.png"}}" alt="" /></p>
+						<p class="des">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat...</p>
+						<p class="link"><a href="#">Contact us</a> <a href="#">Term of</a> <a href="#">Useprivacy</a> <a href="#">Policy</a></p>
+						<small class="copyright"> Copyright © 2018 PlazaThemes. All Right Reserved. </small></div>
+						<div class="col-md-2">
+						<h3 class="title">Information</h3>
+						<ul>
+						<li><a href="#">About Us</a></li>
+						<li><a href="#">Delivery Information</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Terms &amp; Conditions</a></li>
+						<li><a href="#">Customer Service</a></li>
+						</ul>
+						</div>
+						<div class="col-md-2">
+						<h3 class="title">My Account</h3>
+						<ul>
+						<li><a href="#">My Account</a></li>
+						<li><a href="#">Order History</a></li>
+						<li><a href="#">Wish List</a></li>
+						<li><a href="#">Newsletter</a></li>
+						<li><a href="#">Order History</a></li>
+						</ul>
+						</div>
+						<div class="col-md-4">
+						<p class="text">Follow us:</p>
+						<ul class="follow">
+						<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/plazathemes"><span>twitter</span></a></li>
+						<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google </span></a></li>
+						<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/plazathemes1"><span>facebook</span></a></li>
+						<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/plazathemes"><span>youtube </span></a></li>
+						<li><a class="rss fa fa-rss" href="#"><span>rss</span></a></li>
+						</ul>
+						<p class="text">Payment Methods:</p>
+						<p class="paypant"><img src="{{media url="wysiwyg/payment.png"}}" alt="" /></p>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Corporate About</title>
+            <identifier>corporate_about</identifier>
+            <content>
+                    <![CDATA[
+						<div class="corporate-about">
+						<div class="row">
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon1.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Free delivery</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon2.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Money guarantee</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon3.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Online support</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Text1 Home1</title>
+            <identifier>banner_text1_home1</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-text1">
+						<h4>HIGH QUALITY</h4>
+						<h3>PROFESSIONALS</h3>
+						<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica.</p>
+						<a class="button" href="#">Shop now </a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home1</title>
+            <identifier>banner_home1</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-home">
+						<div class="row">
+						<div class="col-sm-6">
+						<div class="banner-box"><a href="{{store url="accessories.html"}}"><img src="{{media url="wysiwyg/banner11.jpg"}}" alt="" /></a></div>
+						</div>
+						<div class="col-sm-6">
+						<div class="banner-box"><a href="{{store url="accessories.html"}}"><img src="{{media url="wysiwyg/banner12.jpg"}}" alt="" /></a></div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Products Category</title>
+            <identifier>products_category</identifier>
+            <content>
+                    <![CDATA[
+						<div>{{widget type="Plazathemes\Categorytab\Block\CateWidget" title="Featured Products" identify="121212" category_id="3,4,5,6" items_default="4" items_desktop="4" items_desktop_small="3" items_tablet="2" items_mobile="1" show_addtocart="1" show_wishlist="1" show_compare="1" row_show="1" show_pager="1" template="categorytab/grid.phtml" page_var_name="pvibku"}}</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Link Follow Header</title>
+            <identifier>link_follow_header</identifier>
+            <content>
+                    <![CDATA[
+						<div class="link_follow">
+						<ul class="link-follow">
+						<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/plazathemes"><span>twitter</span></a></li>
+						<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google </span></a></li>
+						<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/plazathemes1"><span>facebook</span></a></li>
+						<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/plazathemes"><span>youtube </span></a></li>
+						</ul>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Link Contact Header</title>
+            <identifier>link_contact_header</identifier>
+            <content>
+                    <![CDATA[
+						<p>Email:Contact@plazathemes.com</p>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home2</title>
+            <identifier>banner_home2</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-box"><a href="{{store url="accessories.html"}}"><img src="{{media url="wysiwyg/banner13.jpg"}}" alt="" /></a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Corporate About 2</title>
+            <identifier>corporate_about2</identifier>
+            <content>
+                    <![CDATA[
+						<div class="corporate-about">
+						<div class="row">
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon21.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Free delivery</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon22.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Money guarantee</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col">
+						<div class="pull-left"><img src="{{media url="wysiwyg/icon23.png"}}" alt="" /></div>
+						<div class="media">
+						<h3>Online support</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Static 2</title>
+            <identifier>footer_static2</identifier>
+            <content>
+                    <![CDATA[
+						<p class="logo-f"><img src="{{media url="wysiwyg/logof.png"}}" alt="" /></p>
+						<h4 class="link-f"><a href="#">facebook</a> <a href="#">twitter</a> <a href="#">google+</a> <a href="#">youtube</a> <a href="#">instagram</a></h4>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Static 3</title>
+            <identifier>footer_static3</identifier>
+            <content>
+                    <![CDATA[
+						<p class="logo-f"><img src="{{media url="wysiwyg/logo.png"}}" alt="" /></p>
+						<h4 class="link-f"><a href="#">facebook</a> <a href="#">twitter</a> <a href="#">google+</a> <a href="#">youtube</a> <a href="#">instagram</a></h4>
+						<p class="logo-f"><img src="{{media url="wysiwyg/logof2.png"}}" alt="" /></p>
+						<p class="text"><span>Aboss Store</span><span>Address : 123 Main Street, Anytown, CA 12345 USA.</span><span>Phone : (800) 123 456 789</span><span>Email : demo@plazathemes.com</span></p>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		<block>
+            <title>Corporate About 3</title>
+            <identifier>corporate_about3</identifier>
+            <content>
+                    <![CDATA[
+						<div class="corporate-about">
+						<div class="row">
+						<div class="col-md-4">
+						<div class="box-col"><img src="{{media url="wysiwyg/icon31.png"}}" alt="" />
+						<h3>Free delivery</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col"><img src="{{media url="wysiwyg/icon32.png"}}" alt="" />
+						<h3>Money guarantee</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						<div class="col-md-4">
+						<div class="box-col"><img src="{{media url="wysiwyg/icon33.png"}}" alt="" />
+						<h3>Online support</h3>
+						<p>Nam liber tempor cum soluta nobis <br /> eleifend option congue.</p>
+						</div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Text Home3</title>
+            <identifier>banner_text_home3</identifier>
+            <content>
+                    <![CDATA[
+						<div class="box-text">
+						<p><img src="{{media url="wysiwyg/logo-club.jpg"}}" alt="" /></p>
+						<h3>kichboxing</h3>
+						<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Category Top</title>
+            <identifier>category_top</identifier>
+            <content>
+                    <![CDATA[
+						<div class="ma-title">
+						<h3><span>PRODUCTS BY CATEGORY</span></h3>
+						<p class="des">Typi non habent claritatem insitam est usus legentis in iis qui facit eorum claritatem.</p>
+						</div>
+						<ul>
+						<li>
+						<div class="images"><img src="{{media url="wysiwyg/cate31.jpg"}}" alt="" /></div>
+						<div class="box-col">
+						<p><img src="{{media url="wysiwyg/icon-cate1.png"}}" alt="" /></p>
+						<h4><a href="#">dumbbell</a></h4>
+						</div>
+						</li>
+						<li>
+						<div class="images"><img src="{{media url="wysiwyg/cate32.jpg"}}" alt="" /></div>
+						<div class="box-col">
+						<p><img src="{{media url="wysiwyg/icon-cate2.png"}}" alt="" /></p>
+						<h4><a href="#">shoes sport</a></h4>
+						</div>
+						</li>
+						<li>
+						<div class="images"><img src="{{media url="wysiwyg/cate33.jpg"}}" alt="" /></div>
+						<div class="box-col">
+						<p><img src="{{media url="wysiwyg/icon-cate3.png"}}" alt="" /></p>
+						<h4><a href="#">helmet for men’s</a></h4>
+						</div>
+						</li>
+						<li>
+						<div class="images"><img src="{{media url="wysiwyg/cate34.jpg"}}" alt="" /></div>
+						<div class="box-col">
+						<p><img src="{{media url="wysiwyg/icon-cate4.png"}}" alt="" /></p>
+						<h4><a href="#">Boxing Gloves</a></h4>
+						</div>
+						</li>
+						</ul>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home3 Page 3</title>
+            <identifier>banner_home3_page3</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-home">
+						<div class="row">
+						<div class="col-sm-6">
+						<div class="banner-box"><a href="{{store url="accessories.html"}}"><img src="{{media url="wysiwyg/banner41.jpg"}}" alt="" /></a></div>
+						</div>
+						<div class="col-sm-6">
+						<div class="banner-box"><a href="{{store url="accessories.html"}}"><img src="{{media url="wysiwyg/banner42.jpg"}}" alt="" /></a></div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Text Home4</title>
+            <identifier>banner_text_home4</identifier>
+            <content>
+                    <![CDATA[
+						<div class="box-text">
+						<p><img src="{{media url="wysiwyg/logosprot.png"}}" alt="" /></p>
+						<h3>Dumbbell set</h3>
+						<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+		<block>
+            <title>Banner Left</title>
+            <identifier>banner_left</identifier>
+            <content>
+                    <![CDATA[
+						<p><a href="#"><img src="{{media url="wysiwyg/category.jpg"}}" alt="" /></a></p>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>		
+
+		
+    </blocks>
+</aboss>
+
